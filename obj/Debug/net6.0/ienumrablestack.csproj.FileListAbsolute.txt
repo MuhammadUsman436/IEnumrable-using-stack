@@ -1,0 +1,15 @@
+C:\Users\usman\source\repos\ienumrablestack\ienumrablestack\bin\Debug\net6.0\ienumrablestack.exe
+C:\Users\usman\source\repos\ienumrablestack\ienumrablestack\bin\Debug\net6.0\ienumrablestack.deps.json
+C:\Users\usman\source\repos\ienumrablestack\ienumrablestack\bin\Debug\net6.0\ienumrablestack.runtimeconfig.json
+C:\Users\usman\source\repos\ienumrablestack\ienumrablestack\bin\Debug\net6.0\ienumrablestack.dll
+C:\Users\usman\source\repos\ienumrablestack\ienumrablestack\bin\Debug\net6.0\ienumrablestack.pdb
+C:\Users\usman\source\repos\ienumrablestack\ienumrablestack\obj\Debug\net6.0\ienumrablestack.csproj.AssemblyReference.cache
+C:\Users\usman\source\repos\ienumrablestack\ienumrablestack\obj\Debug\net6.0\ienumrablestack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usman\source\repos\ienumrablestack\ienumrablestack\obj\Debug\net6.0\ienumrablestack.AssemblyInfoInputs.cache
+C:\Users\usman\source\repos\ienumrablestack\ienumrablestack\obj\Debug\net6.0\ienumrablestack.AssemblyInfo.cs
+C:\Users\usman\source\repos\ienumrablestack\ienumrablestack\obj\Debug\net6.0\ienumrablestack.csproj.CoreCompileInputs.cache
+C:\Users\usman\source\repos\ienumrablestack\ienumrablestack\obj\Debug\net6.0\ienumrablestack.dll
+C:\Users\usman\source\repos\ienumrablestack\ienumrablestack\obj\Debug\net6.0\refint\ienumrablestack.dll
+C:\Users\usman\source\repos\ienumrablestack\ienumrablestack\obj\Debug\net6.0\ienumrablestack.pdb
+C:\Users\usman\source\repos\ienumrablestack\ienumrablestack\obj\Debug\net6.0\ienumrablestack.genruntimeconfig.cache
+C:\Users\usman\source\repos\ienumrablestack\ienumrablestack\obj\Debug\net6.0\ref\ienumrablestack.dll
